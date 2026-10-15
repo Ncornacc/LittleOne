@@ -1,1 +1,3 @@
 # LittleOne
+
+The LittleOne Project with a 11/11/2026 Deadline. Made in 1 month by @Ncornacc @FIREnzooh ...
